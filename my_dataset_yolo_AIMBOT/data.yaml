@@ -1,0 +1,5 @@
+train: C:/Users/Gamer/Desktop/Visual Code Projects/AimBot/my_dataset_yolo_AIMBOT/images/train
+val: C:/Users/Gamer/Desktop/Visual Code Projects/AimBot/my_dataset_yolo_AIMBOT/images/val
+
+nc: 1
+names: [<aim>]
