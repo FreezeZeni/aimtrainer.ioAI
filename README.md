@@ -1,1 +1,1 @@
-A simple aimbot for the site airtrainer.io
+A simple aimbot for the site aimtrainer.io
