@@ -5,9 +5,8 @@ import numpy as np
 import keyboard
 from pynput.mouse import Button, Controller
 
-# Загрузка модели
-# model = YOLO("yolov8n.pt")  # Загрузка официальной модели
-model = YOLO(r"runs\detect\train2\weights\best.pt")  # Загрузка пользовательской модели
+# model = YOLO("yolov8n.pt")
+model = YOLO(r"runs\detect\train2\weights\best.pt")
 
 monitor = {"top": 362, "left": 551, "width": 801, "height": 481}
 
