@@ -1,3 +1,3 @@
 # README
 
-## Aimbot for AimTrainer.io Based on YOLO
+## Aimbot for aimtrainer.io Based on YOLO
